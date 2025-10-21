@@ -4,7 +4,7 @@
 
 🗣 **Hacktoberfest 2025 encourages participation in the open-source community, which grows bigger every year.**
 
-📢 **Register [here](https://hacktoberfest.com) for hacktoberfest2024 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
+📢 **Register [here](https://hacktoberfest.com) for hacktoberfest2025 and make four pull requests (PRs) between October 1st-31st to grab free DIGITAL-SWAGS 🔥.**
 
 ## Contributing
 
