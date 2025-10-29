@@ -21,6 +21,6 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
 ## Our Amazing Contributors 
 
-<a href="https://github.com/aanglll/Halo-Dunia25/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aanglll/Halo-Dunia25" />
+<a href="https://github.com/Salahudin-Cloud/Halo-Dunia25/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Salahudin-Cloud/Halo-Dunia25" />
 </a>
